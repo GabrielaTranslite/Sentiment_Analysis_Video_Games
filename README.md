@@ -308,7 +308,7 @@ To download the spaCy English language model after setup:
 
 ## Key Findings
 
-1. **VADER achieves 73% accuracy** (macro F1: 0.70) on Steam game reviews with no task-specific training — a reasonable baseline for unsupervised complaint monitoring.
+1. **VADER achieves 74% accuracy** (macro F1: 0.70) on Steam game reviews with no task-specific training — a reasonable baseline for unsupervised complaint monitoring.
 2. **Main failure modes**: concessive structures ("great, but…"), sarcasm, idiomatic expressions, and neutral wish-list language.
 3. **Lemmatization does not help** VADER on English game reviews.
 4. **Ubisoft brand sentiment** is the single strongest signal in negative reviews, independent of game quality in specific periods.
