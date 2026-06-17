@@ -129,7 +129,7 @@ Two text cleaning functions were used:
 
 | Metric | Value |
 |--------|-------|
-| Accuracy | 0.73 |
+| Accuracy | 0.74 |
 | Macro F1 | 0.70 |
 | Precision (negative) | 0.70 |
 | Recall (negative) | 0.51 |
