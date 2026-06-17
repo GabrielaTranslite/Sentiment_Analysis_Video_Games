@@ -12,6 +12,8 @@ I have worked for 14 years as a professional video game translator and localisat
 
 The intersection of localisation expertise and data analysis is not accidental. As the games industry increasingly relies on data-driven decisions, professionals who can bridge domain knowledge with quantitative methods have a distinctive contribution to make — whether in understanding player feedback, evaluating community reception across regions, or informing decisions about post-launch content.
 
+The full course presentation is available here: [Anno PAX ROMANA_Eng.pdf](Anno%20PAX%20ROMANA_Eng.pdf)
+
 ---
 
 ## The Game
